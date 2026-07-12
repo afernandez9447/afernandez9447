@@ -1,16 +1,16 @@
-## Hi there 👋
+Álvaro Fernández
 
-<!--
-**afernandez9447/afernandez9447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Critical Care Nurse combining extensive clinical experience in ICU, ECMO and advanced therapies with healthcare data science and artificial intelligence.
 
-Here are some ideas to get you started:
+Areas of interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Healthcare AI
+* Clinical Data Science
+* Critical Care and ECMO
+* Machine Learning in Healthcare
+* Clinical Decision-Support Systems
+* Responsible and Interpretable AI
+
+Current focus
+
+Developing reproducible healthcare machine learning projects that connect real clinical needs with data engineering, predictive modeling and interpretable artificial intelligence.
